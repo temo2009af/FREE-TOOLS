@@ -1,4 +1,4 @@
-git cline https://github.com/temo2009af/FREE-TOOLS.git
+git clone https://github.com/temo2009af/FREE-TOOLS.git
 
 cd FREE-TOOLS
 
